@@ -4,7 +4,7 @@ Email Classification Assignment
 Classify support emails and mask PII using traditional NLP + ML techniques.
 
 ##  Deployed Demo
-🔗 [View Live on Hugging Face Spaces](https://pavanstunner-emails.hf.space/?logs=container&__theme=system&deep_link=PN1PIejIduE)
+🔗 [View Live on Hugging Face Spaces](https://pavanstunner-emails.hf.space/?logs=container&__theme=system&deep_link=7CdwPeVqmW4)
 
 ##  Model
 - TF-IDF + RandomForestClassifier
